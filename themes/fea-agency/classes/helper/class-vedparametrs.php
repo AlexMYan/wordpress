@@ -25,9 +25,9 @@ class VedParametrs
     //Страницы с переводами форм
 	public const FORMS_PAGE_ID = 3684;
 	//Секретный ключ
-	private const reCaptchaSecretKey = "6Ld-Bl0iAAAAACOsQgCQD4z0uALXYvSTpgdpysq8";
+	private const reCaptchaSecretKey = "";
 	//Публичный ключ
-	private const reCaptchaSiteKey = "6Ld-Bl0iAAAAAOTwJsLaFhqWuxWp-WpdYSH49fLb";
+	private const reCaptchaSiteKey = "";
 	//Кол-во постов при пагинации по умолчанию
 	public const POST_COUNT_PAGE_DEFAULT = 30;
 	//Кол-во символов после чего происходит запись в БД
